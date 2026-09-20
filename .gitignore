@@ -1,0 +1,9 @@
+# KiCad local/session state and one-shot logs
+*.kicad_prl
+*.lck
+~*.lck
+report.txt
+rescue-backup/
+
+# LaTeX/editor noise
+*~

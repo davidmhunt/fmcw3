@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "fmcw3-rescue")(type "Legacy")(uri "${KIPRJMOD}/fmcw3-rescue.lib")(options "")(descr ""))
+  (lib (name "fmcw3")(type "Legacy")(uri "${KIPRJMOD}/libs/fmcw3.lib")(options "")(descr ""))
+)
