@@ -3960,6 +3960,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 52.07 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LP5907MFX-1.8/NOPB"
+			(at 52.07 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "296-41463-1-ND"
+			(at 52.07 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b9380c0a-3f86-41b2-94aa-b2d68f8c9a89")
 		)
@@ -4034,6 +4067,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 58.42 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Status" "needs-David: see docs/hardware/fmcw3 memo"
 			(at 58.42 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -4195,6 +4239,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 39.37 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 39.37 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3 V on 3V0)"
+			(at 39.37 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 39.37 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4425,6 +4502,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 29.21 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 29.21 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 29.21 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 29.21 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -4670,6 +4780,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 76.2 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 76.2 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 76.2 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "049c23cd-75b3-4607-a084-c1bb1c825961")
 		)
@@ -4738,6 +4881,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 95.25 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "onsemi"
+			(at 95.25 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "NC7S04P5X"
+			(at 95.25 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "NC7S04P5XCT-ND"
 			(at 95.25 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -4909,6 +5085,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 87.63 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 87.63 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 87.63 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7831007a-08ba-471b-9f77-e12cde4f295c")
 		)
@@ -5062,6 +5271,17 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 86.36 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7d8418b8-a00c-4d0f-8573-e712a7796412")
 		)
@@ -5142,6 +5362,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 95.25 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 95.25 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 95.25 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1177ae74-1530-41fb-bb8e-427eb0bc7290")
 		)
@@ -5210,6 +5463,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 102.87 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 102.87 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -5374,6 +5638,50 @@
 				)
 			)
 		)
+		(property "Manufacturer" "onsemi"
+			(at 130.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "NB3N551MNR4G"
+			(at 130.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "NB3N551MNR4GOSCT-ND"
+			(at 130.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Status" "Obsolete: see docs/hardware/fmcw3 memo"
+			(at 130.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0ebff3b-5e70-4c33-99df-de92b6a93c4e")
 		)
@@ -5473,6 +5781,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 110.49 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BLM18PG181SN1D"
+			(at 110.49 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "490-5263-1-ND"
+			(at 110.49 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a62c4ce0-9d98-4100-bb70-fbfca12dece8")
 		)
@@ -5543,6 +5884,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 121.92 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 121.92 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 121.92 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 121.92 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -5781,6 +6155,17 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 151.13 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1cea20a2-fa12-4d45-a84b-ee595b997ca2")
 		)
@@ -5859,6 +6244,17 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 151.13 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8f838ede-b730-4d0b-8d3b-b323d690ab08")
 		)
@@ -5927,6 +6323,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 151.13 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 151.13 173.99 0)
 			(hide yes)
 			(show_name no)

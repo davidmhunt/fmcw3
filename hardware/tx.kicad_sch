@@ -5286,7 +5286,7 @@
 				)
 			)
 		)
-		(property "manf#" "HMC431LP4ETR"
+		(property "MPN" "HMC431LP4ETR"
 			(at 231.14 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -5294,6 +5294,28 @@
 			(effects
 				(font
 					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Manufacturer" "Analog Devices Inc."
+			(at 231.14 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "1127-1036-1-ND"
+			(at 231.14 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5384,7 +5406,7 @@
 				)
 			)
 		)
-		(property "manf#" "ADF4158CCPZ"
+		(property "MPN" "ADF4158CCPZ"
 			(at 38.1 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -5392,6 +5414,28 @@
 			(effects
 				(font
 					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Manufacturer" "Analog Devices Inc."
+			(at 38.1 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "505-ADF4158CCPZ-ND"
+			(at 38.1 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5542,7 +5586,7 @@
 				)
 			)
 		)
-		(property "manf#" "CONSMA003.062"
+		(property "MPN" "CONSMA003.062"
 			(at 393.7 127 0)
 			(hide yes)
 			(show_name no)
@@ -5550,6 +5594,28 @@
 			(effects
 				(font
 					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity Linx"
+			(at 393.7 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "CONSMA003.062-ND"
+			(at 393.7 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5633,6 +5699,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 64.77 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.3 V on 3V3A)"
+			(at 64.77 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 64.77 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "26d985a6-fc4b-47b1-9425-24d8a0b68c90")
 		)
@@ -5703,6 +5802,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 64.77 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 64.77 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 64.77 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 64.77 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5945,6 +6077,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 86.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.3 V on 3V3A)"
+			(at 86.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 86.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5cef6312-c99f-478b-a07c-29499d2a7779")
 		)
@@ -6015,6 +6180,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 86.36 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 86.36 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 86.36 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -6257,6 +6455,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 102.87 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=10 V (inferred: 5 V on Net-(U1-VP))"
+			(at 102.87 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 102.87 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3cf77dea-b694-4cc5-b77c-59e2d1ab3b93")
 		)
@@ -6327,6 +6558,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 102.87 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 102.87 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=10 V (inferred: 5 V on Net-(U1-VP))"
+			(at 102.87 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 102.87 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -6721,6 +6985,50 @@
 				)
 			)
 		)
+		(property "Status" "needs-David: see docs/hardware/fmcw3 memo"
+			(at 116.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 116.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 116.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 116.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "031ea21f-8bb3-4169-b7b0-f6f863b89f2c")
 		)
@@ -6865,6 +7173,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 107.95 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 107.95 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -7031,6 +7350,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 128.27 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 128.27 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 128.27 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "847f4015-0a3f-4063-a0a2-e49de77d3a89")
 		)
@@ -7177,6 +7529,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 132.08 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 132.08 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -7343,6 +7706,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 205.74 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 205.74 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 205.74 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e67d9ffa-28f8-495c-a4e1-df9a672b6b80")
 		)
@@ -7413,6 +7809,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 213.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.3 V on 3V3A)"
+			(at 213.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 213.36 127 0)
 			(hide yes)
 			(show_name no)
@@ -7729,6 +8158,28 @@
 				)
 			)
 		)
+		(property "Status" "needs-David: see docs/hardware/fmcw3 memo"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 259.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "adbe29e1-0e20-45b2-a193-a930ef11273d")
 		)
@@ -7807,6 +8258,28 @@
 				)
 			)
 		)
+		(property "Status" "needs-David: see docs/hardware/fmcw3 memo"
+			(at 267.97 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 267.97 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a5ebdf76-9769-43dc-9df3-dccecd2fb8af")
 		)
@@ -7875,6 +8348,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 267.97 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Status" "needs-David: see docs/hardware/fmcw3 memo"
+			(at 267.97 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 267.97 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -7965,6 +8460,50 @@
 				)
 			)
 		)
+		(property "Status" "needs-David: see docs/hardware/fmcw3 memo"
+			(at 132.08 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 132.08 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 132.08 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 132.08 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f6113f1e-bda3-45e0-afe9-4c1b4465f46b")
 		)
@@ -8034,6 +8573,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 284.48 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Susumu"
+			(at 284.48 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PAT1220-C-6DB-T5"
+			(at 284.48 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "PAT126CT-ND"
 			(at 284.48 127 0)
 			(hide yes)
 			(show_name no)
@@ -8201,7 +8773,7 @@
 				)
 			)
 		)
-		(property "manf#" "MGA-25203-BLKG"
+		(property "MPN" "MGA-25203-BLKG"
 			(at 316.23 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -8209,6 +8781,39 @@
 			(effects
 				(font
 					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Manufacturer" "Broadcom Limited"
+			(at 316.23 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "516-2289-ND"
+			(at 316.23 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Status" "Obsolete: see docs/hardware/fmcw3 memo"
+			(at 316.23 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8401,6 +9006,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 328.93 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY))"
+			(at 328.93 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 328.93 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1931e57f-0d5a-40b9-b7a7-f419113b3387")
 		)
@@ -8481,6 +9119,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 328.93 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY))"
+			(at 328.93 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 328.93 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05e64f66-e92a-4ecb-8506-36d18757dd5b")
 		)
@@ -8551,6 +9222,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 328.93 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 328.93 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 328.93 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 328.93 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -9025,6 +9729,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 292.1 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 292.1 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 292.1 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "32a16f48-015c-43f0-b108-23195e011bdc")
 		)
@@ -9095,6 +9832,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 285.75 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 285.75 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 285.75 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 285.75 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9337,6 +10107,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 328.93 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY))"
+			(at 328.93 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 328.93 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0a048ea6-1a89-416e-9ebf-fa285f14b43f")
 		)
@@ -9491,6 +10294,17 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 266.7 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a3118651-698c-41fd-a2f5-d4358d5c10aa")
 		)
@@ -9559,6 +10373,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 279.4 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 279.4 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9715,6 +10540,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 306.07 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 306.07 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 306.07 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 306.07 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -9957,6 +10815,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 176.53 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=16 V (inferred: 10 V on 10V)"
+			(at 176.53 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 176.53 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c2a24337-63ae-4a15-8e1b-88eb31bc887b")
 		)
@@ -10111,6 +11002,17 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 204.47 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab8bac9c-dde4-49ae-a8f3-7159da67065c")
 		)
@@ -10181,6 +11083,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 213.36 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 213.36 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 213.36 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -10345,6 +11280,17 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 182.88 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0b86c43e-3088-41ea-a502-f0f839fb5fde")
 		)
@@ -10413,6 +11359,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 171.45 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 171.45 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10579,6 +11536,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 149.86 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 149.86 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 149.86 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e6227aef-714c-4abb-926b-168cc1d70a09")
 		)
@@ -10723,6 +11713,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 351.79 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Susumu"
+			(at 351.79 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PAT1220-C-6DB-T5"
+			(at 351.79 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "PAT126CT-ND"
 			(at 351.79 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -10974,6 +11997,17 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 240.03 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6fa47034-2e68-40ae-9675-6a68ee934721")
 		)
@@ -11042,6 +12076,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 369.57 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Status" "needs-David: see docs/hardware/fmcw3 memo"
+			(at 369.57 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 369.57 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -11208,6 +12264,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 86.36 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 86.36 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 86.36 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de38cee2-a0da-46c7-8e8b-7aa01865d1a7")
 		)
@@ -11364,6 +12453,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Rohm Semiconductor"
+			(at 231.14 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RE1C002UNTCL"
+			(at 231.14 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "RE1C002UNTCLCT-ND"
+			(at 231.14 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "08546e78-aae8-416d-8b9f-6d7ccf078258")
 		)
@@ -11435,6 +12557,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
 			(at 224.79 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11679,6 +12812,39 @@
 				)
 			)
 		)
+		(property "Tolerance" "unspecified"
+			(at 297.18 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred default: no supply rail on these nets)"
+			(at 297.18 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
+			(at 297.18 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90f471d2-ad65-46f3-a8ae-c7a1addae286")
 		)
@@ -11833,6 +12999,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 95.25 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BLM18PG181SN1D"
+			(at 95.25 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "490-5263-1-ND"
+			(at 95.25 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fd903900-9368-48aa-be00-d56607186fd2")
 		)
@@ -11901,6 +13100,50 @@
 			)
 		)
 		(property "Description" ""
+			(at 295.91 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 295.91 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CIC21P101NE"
+			(at 295.91 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "1276-6374-2-ND"
+			(at 295.91 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Status" "Obsolete: see docs/hardware/fmcw3 memo"
 			(at 295.91 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11989,6 +13232,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 191.77 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BLM18PG181SN1D"
+			(at 191.77 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "490-5263-1-ND"
+			(at 191.77 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f451b5b2-0723-4cda-9d14-edabe2a0f9f6")
 		)
@@ -12057,6 +13333,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 184.15 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TLV172IDCKR"
+			(at 184.15 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey PN" "296-48697-1-ND"
 			(at 184.15 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12221,6 +13530,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 246.38 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "unspecified"
+			(at 246.38 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ">=6.3 V (inferred: 3.6 V on 3V6)"
+			(at 246.38 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "unspecified"
 			(at 246.38 81.28 0)
 			(hide yes)
 			(show_name no)
