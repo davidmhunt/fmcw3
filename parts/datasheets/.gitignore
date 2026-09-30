@@ -1,0 +1,7 @@
+# Vendor datasheets are copyrighted: never commit them. Only the manifest,
+# fetch.py, README.md and this file are tracked.
+*
+!.gitignore
+!manifest.csv
+!fetch.py
+!README.md
