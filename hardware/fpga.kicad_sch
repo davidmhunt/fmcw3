@@ -15068,7 +15068,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DOCUMENTATION"
+		(property "Datasheet" "https://docs.amd.com/v/u/en-US/ds180_7Series_Overview"
 			(at 147.32 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -15942,7 +15942,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DOCUMENTATION"
+		(property "Datasheet" "https://docs.amd.com/v/u/en-US/ds180_7Series_Overview"
 			(at 251.46 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -16816,7 +16816,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DOCUMENTATION"
+		(property "Datasheet" "https://docs.amd.com/v/u/en-US/ds180_7Series_Overview"
 			(at 359.41 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -17690,7 +17690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DOCUMENTATION"
+		(property "Datasheet" "https://docs.amd.com/v/u/en-US/ds180_7Series_Overview"
 			(at 67.31 327.66 0)
 			(hide yes)
 			(show_name no)
@@ -18564,7 +18564,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DOCUMENTATION"
+		(property "Datasheet" "https://docs.amd.com/v/u/en-US/ds180_7Series_Overview"
 			(at 392.43 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -19438,7 +19438,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DOCUMENTATION"
+		(property "Datasheet" "https://docs.amd.com/v/u/en-US/ds180_7Series_Overview"
 			(at 62.23 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -20312,7 +20312,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DOCUMENTATION"
+		(property "Datasheet" "https://docs.amd.com/v/u/en-US/ds180_7Series_Overview"
 			(at 125.73 308.61 0)
 			(hide yes)
 			(show_name no)
@@ -25224,7 +25224,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2142/EVPAW.pdf"
 			(at 25.4 223.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25674,7 +25674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf"
 			(at 307.34 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -27047,7 +27047,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DM3BT-DSF-PEJS"
 			(at 204.47 255.27 0)
 			(show_name no)
 			(do_not_autoplace no)

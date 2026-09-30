@@ -9946,7 +9946,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4940-1_4940-2.pdf"
 			(at 120.65 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10127,7 +10127,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4940-1_4940-2.pdf"
 			(at 236.22 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -10308,7 +10308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4940-1_4940-2.pdf"
 			(at 115.57 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10489,7 +10489,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4940-1_4940-2.pdf"
 			(at 236.22 130.81 0)
 			(hide yes)
 			(show_name no)

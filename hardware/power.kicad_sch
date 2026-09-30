@@ -5775,7 +5775,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.memoryprotectiondevices.com/datasheets/EJ508A/EJ508A-datasheet.pdf"
 			(at 29.21 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6152,7 +6152,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2330/CIC21_ds.pdf"
 			(at 62.23 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7025,7 +7025,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/l7980.pdf"
 			(at 68.58 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8227,7 +8227,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SRR6040A.pdf"
 			(at 114.3 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8349,7 +8349,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ss14fl-d.pdf"
 			(at 99.06 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9124,7 +9124,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/l7980.pdf"
 			(at 64.77 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10326,7 +10326,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SRR6040A.pdf"
 			(at 110.49 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10448,7 +10448,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ss14fl-d.pdf"
 			(at 95.25 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11373,7 +11373,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lp5907.pdf"
 			(at 204.47 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11941,7 +11941,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lp2985.pdf"
 			(at 215.9 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12700,7 +12700,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps7a91.pdf"
 			(at 226.06 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -14074,7 +14074,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps7a91.pdf"
 			(at 224.79 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15448,7 +15448,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/l7980.pdf"
 			(at 62.23 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16650,7 +16650,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SRR6040A.pdf"
 			(at 107.95 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16772,7 +16772,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/ss14fl-d.pdf"
 			(at 92.71 162.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18076,7 +18076,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps7a91.pdf"
 			(at 224.79 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -20308,7 +20308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/mic5301.pdf"
 			(at 251.46 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)

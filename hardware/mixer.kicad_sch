@@ -3120,7 +3120,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf"
 			(at 67.31 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4493,7 +4493,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5802.pdf"
 			(at 118.11 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4674,7 +4674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf"
 			(at 67.31 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5117,7 +5117,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf"
 			(at 67.31 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7605,7 +7605,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0003_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707190934"
 			(at 92.71 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -3939,7 +3939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lp5907.pdf"
 			(at 52.07 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4870,7 +4870,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NC7S04-D.PDF"
 			(at 95.25 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5616,7 +5616,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/7560/NB3N551DR2G%20%281%29.pdf"
 			(at 130.81 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5760,7 +5760,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0003_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707190934"
 			(at 110.49 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)

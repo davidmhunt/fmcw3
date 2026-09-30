@@ -5265,7 +5265,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/hmc431.pdf"
 			(at 231.14 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5385,7 +5385,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4158.pdf"
 			(at 38.1 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5565,7 +5565,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://linxtechnologies.com/wp/wp-content/uploads/sma_rp-sma_specs.pdf"
 			(at 393.7 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8562,7 +8562,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf"
 			(at 284.48 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8752,7 +8752,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.rs-online.com/1583/0900766b812f924c.pdf"
 			(at 316.23 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11702,7 +11702,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf"
 			(at 351.79 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12432,7 +12432,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/re1c002untcl-e.pdf"
 			(at 231.14 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12978,7 +12978,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0003_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707190934"
 			(at 95.25 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13089,7 +13089,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2330/CIC21_ds.pdf"
 			(at 295.91 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13211,7 +13211,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0003_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707190934"
 			(at 191.77 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13322,7 +13322,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv172.pdf"
 			(at 184.15 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)

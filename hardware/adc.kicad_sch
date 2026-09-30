@@ -6279,7 +6279,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lp5907.pdf"
 			(at 71.12 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)

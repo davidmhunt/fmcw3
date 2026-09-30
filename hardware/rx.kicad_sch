@@ -2102,7 +2102,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.skyworksinc.com/-/media/5C3EBEFF9AA745DDA3613C3EA77D7ADB.pdf"
 			(at 171.45 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2862,7 +2862,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://linxtechnologies.com/wp/wp-content/uploads/sma_rp-sma_specs.pdf"
 			(at 232.41 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3470,7 +3470,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/inductor/JELF243A-0100_PDF_INDUCTOR"
 			(at 97.79 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3909,7 +3909,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0003_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707190934"
 			(at 83.82 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4350,7 +4350,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ferriteBeadInductortypefilter/ENFA0003_PDF_FERRITEBEADINDUCTORTYPEFILTER?lastModifiedDatetime=20250707190934"
 			(at 207.01 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4792,7 +4792,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/trf37a73.pdf"
 			(at 120.65 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
