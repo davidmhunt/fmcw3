@@ -7,3 +7,6 @@ rescue-backup/
 
 # LaTeX/editor noise
 *~
+
+# DigiKey API credentials (never commit)
+.digikey.env

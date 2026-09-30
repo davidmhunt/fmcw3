@@ -1,0 +1,36 @@
+refs,qty,need,value,search_term,match,mpn,mfr,status,stock,ok,dk_url,notes
+U1,1,5,ADF4158,ADF4158CCPZ,exact,ADF4158CCPZ,Analog Devices Inc.,Active,838,yes,https://www.digikey.com/en/products/detail/analog-devices-inc/ADF4158CCPZ/2700204,PLL; MPN from schematic manf# field
+U2,1,5,LP5907-1.8,LP5907MFX-1.8/NOPB,exact,LP5907MFX-1.8/NOPB,Texas Instruments,Active,9060,yes,https://www.digikey.com/en/products/detail/texas-instruments/LP5907MFX-1-8-NOPB/3911201,LDO
+U20;U39,2,10,LP5907-3.0,LP5907MFX-3.0/NOPB,exact,LP5907MFX-3.0/NOPB,Texas Instruments,Active,15592,yes,https://www.digikey.com/en/products/detail/texas-instruments/LP5907MFX-3-0-NOPB/3906438,LDO
+U21,1,5,LP2985A-10DBVR,LP2985A-10DBVR,exact,LP2985A-10DBVR,Texas Instruments,Active,2970,yes,https://www.digikey.com/en/products/detail/texas-instruments/LP2985A-10DBVR/2038541,LDO
+U22;U23;U24,3,15,TPS7A91,TPS7A91,fuzzy,TPS7A9101DSKT,Texas Instruments,Active,82,yes,https://www.digikey.com/en/products/detail/texas-instruments/TPS7A9101DSKT/6588889,suffix/voltage variant to confirm
+U25,1,5,MIC5301-3.3,MIC5301-3.3YMT,fuzzy,MIC5301-3.3YMT-TR,Microchip Technology,Active,7474,yes,https://www.digikey.com/en/products/detail/microchip-technology/MIC5301-3-3YMT-TR/1616992,LDO; suffix to confirm
+U17;U18;U19,3,15,L7980,L7980,fuzzy,L7980ATR,STMicroelectronics,Active,30664,yes,https://www.digikey.com/en/products/detail/stmicroelectronics/L7980ATR/2404139,ST buck converter; suffix to confirm
+U3;U12,2,10,PAT1220-6dB,PAT1220-C-6DB,fuzzy,PAT1220-C-6DB-T5,Susumu,Active,4759,yes,https://www.digikey.com/en/products/detail/susumu/PAT1220-C-6DB-T5/948837,Susumu attenuator; exact code to confirm
+U4,1,5,KT2520K,KT2520K,fuzzy,KT2520K26000ACW18TAS,KYOCERA AVX,Obsolete,0,CHECK,https://www.digikey.com/en/products/detail/kyocera-avx/KT2520K26000ACW18TAS/5181905,Kyocera TCXO; frequency suffix to confirm
+U5,1,5,NC7S04P5X,NC7S04P5X,exact,NC7S04P5X,onsemi,Active,77480,yes,https://www.digikey.com/en/products/detail/onsemi/NC7S04P5X/965417,
+U6,1,5,NB3N551,NB3N551,fuzzy,NB3N551MNR4G,onsemi,Obsolete,0,CHECK,https://www.digikey.com/en/products/detail/onsemi/NB3N551MNR4G/1792369,clock buffer
+U7,1,5,TLV172DCK,TLV172IDCKR,exact,TLV172IDCKR,Texas Instruments,Active,2171,yes,https://www.digikey.com/en/products/detail/texas-instruments/TLV172IDCKR/6564682,
+U8,1,5,LTC2292,LTC2292,fuzzy,LTC2292CUP#PBF,Analog Devices Inc.,Active,60,yes,https://www.digikey.com/en/products/detail/analog-devices-inc/LTC2292CUP-PBF/963879,dual ADC; 64-QFN 9x9
+U9;U13,2,10,TRF37A73,TRF37A73,fuzzy,TRF37A73IDSGR,Texas Instruments,Active,3550,yes,https://www.digikey.com/en/products/detail/texas-instruments/TRF37A73IDSGR/6572562,RF amp
+U10,1,5,HMC431LP4,HMC431LP4ETR,exact,HMC431LP4ETR,Analog Devices Inc.,Active,0,CHECK,https://www.digikey.com/en/products/detail/analog-devices-inc/HMC431LP4ETR/3452258,VCO; MPN from schematic manf# field
+U11;U16,2,10,SKY65404,SKY65404-31,exact,SKY65404-31,Skyworks Solutions Inc.,Active,76248,yes,https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SKY65404-31/2764790,LNA; dash suffix to confirm
+U14,1,5,MGA-25203,MGA-25203-BLKG,exact,MGA-25203-BLKG,Broadcom Limited,Obsolete,0,CHECK,https://www.digikey.com/en/products/detail/broadcom-limited/MGA-25203-BLKG/4966712,PA; MPN from schematic manf# field
+U26;U27;U28,3,15,5400BL15B050E,5400BL15B050E,fuzzy,5400BL15B0050001E,Johanson Technology Inc.,Active,6878,yes,https://www.digikey.com/en/products/detail/johanson-technology-inc/5400BL15B0050001E/1560729,Johanson balun
+U29,1,5,ADL5802,ADL5802,fuzzy,ADL5802ACPZ-R7,Analog Devices Inc.,Active,1473,yes,https://www.digikey.com/en/products/detail/analog-devices-inc/ADL5802ACPZ-R7/2606734,mixer
+U30,1,5,XC7A15T-1FTG256C,XC7A15T-1FTG256C,exact,XC7A15T-1FTG256C,AMD,Active,0,CHECK,https://www.digikey.com/en/products/detail/amd/XC7A15T-1FTG256C/5248117,Artix-7 FPGA
+U32,1,5,93LC46B,93LC46B-I/OT,NO RESULT,,,,0,NO,,EEPROM
+U33,1,5,FT2232H,FT2232HL,fuzzy,FT2232HL-REEL,"FTDI, Future Technology Devices International Ltd",Active,0,CHECK,https://www.digikey.com/en/products/detail/ftdi-future-technology-devices-international-ltd/FT2232HL-REEL/1986053,USB bridge
+U34;U35,4,20,ADA4940-2,ADA4940-2,fuzzy,ADA4940-2ACPZ-R7,Analog Devices Inc.,Active,0,CHECK,https://www.digikey.com/en/products/detail/analog-devices-inc/ADA4940-2ACPZ-R7/2793303,ADC driver amp
+U40,1,5,W25Q32JV,W25Q32JVZPIQ,exact,W25Q32JVZPIQ,Winbond Electronics,Obsolete,129555,CHECK,https://www.digikey.com/en/products/detail/winbond-electronics/W25Q32JVZPIQ/6167525,DFN-S-8 6x5 = WSON package
+Y1,1,5,ABM10-167-12.000MHZ-T3,ABM10-167-12.000MHZ-T3,exact,ABM10-167-12.000MHZ-T3,Abracon LLC,Active,19864,yes,https://www.digikey.com/en/products/detail/abracon-llc/ABM10-167-12-000MHZ-T3/6140264,crystal
+Q1,1,5,RE1C002UN,RE1C002UN,fuzzy,RE1C002UNTCL,Rohm Semiconductor,Active,595719,yes,https://www.digikey.com/en/products/detail/rohm-semiconductor/RE1C002UNTCL/5042785,MOSFET
+D2;D3;D4,3,15,SS13FL,SS13FL,exact,SS13FL,onsemi,Obsolete,15000,CHECK,https://www.digikey.com/en/products/detail/onsemi/SS13FL/5305064,diode
+FB1;FB2;FB3;FB5;FB6;FB7;FB8;FB12;FB13;FB14,10,50,BLM18PG181SN1D,BLM18PG181SN1D,exact,BLM18PG181SN1D,Murata Electronics,Active,426016,yes,https://www.digikey.com/en/products/detail/murata-electronics/BLM18PG181SN1D/1634634,ferrite
+FB4;FB11,2,10,CIC21P101NE,CIC21P101NE,exact,CIC21P101NE,Samsung Electro-Mechanics,Obsolete,0,CHECK,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CIC21P101NE/3973735,ferrite
+L1;L3,2,10,LQW15AN9N9J80D,LQW15AN9N9J80D,exact,LQW15AN9N9J80D,Murata Electronics,Active,766,yes,https://www.digikey.com/en/products/detail/murata-electronics/LQW15AN9N9J80D/4292403,inductor
+L5;L6;L7,3,15,SRR6040A-330M,SRR6040A-330M,exact,SRR6040A-330M,Bourns Inc.,Not For New Designs,777,CHECK,https://www.digikey.com/en/products/detail/bourns-inc/SRR6040A-330M/5031023,inductor
+CON1,1,5,DM3BT-DSF-PEJS,DM3BT-DSF-PEJS,exact,DM3BT-DSF-PEJS,Hirose Electric Co Ltd,Active,16323,yes,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DM3BT-DSF-PEJS/1982749,SD card socket
+CON2,1,5,EJ508A,EJ508A,exact,EJ508A,MPD (Memory Protection Devices),Active,6629,yes,https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/EJ508A/2439547,barrel jack
+SW2,1,5,EVP-AWBA2A,EVP-AWBA2A,exact,EVP-AWBA2A,Panasonic Industry,Obsolete,0,CHECK,https://www.digikey.com/en/products/detail/panasonic-industry/EVP-AWBA2A/4930563,switch
+P1;P2;U15,3,15,SMA,CONSMA003.062,exact,CONSMA003.062,TE Connectivity Linx,Active,5904,yes,https://www.digikey.com/en/products/detail/te-connectivity-linx/CONSMA003-062/1577208,Linx edge-launch SMA
