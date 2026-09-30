@@ -1,36 +1,125 @@
-refs,qty,value,search_term,notes
-U1,1,ADF4158,ADF4158CCPZ,PLL; MPN from schematic manf# field
-U2,1,LP5907-1.8,LP5907MFX-1.8/NOPB,LDO
-U20;U39,2,LP5907-3.0,LP5907MFX-3.0/NOPB,LDO
-U21,1,LP2985A-10DBVR,LP2985A-10DBVR,LDO
-U22;U23;U24,3,TPS7A91,TPS7A91,suffix/voltage variant to confirm
-U25,1,MIC5301-3.3,MIC5301-3.3YMT,LDO; suffix to confirm
-U17;U18;U19,3,L7980,L7980,ST buck converter; suffix to confirm
-U3;U12,2,PAT1220-6dB,PAT1220-C-6DB,Susumu attenuator; exact code to confirm
-U4,1,KT2520K,KT2520K,Kyocera TCXO; frequency suffix to confirm
-U5,1,NC7S04P5X,NC7S04P5X,
-U6,1,NB3N551,NB3N551,clock buffer
-U7,1,TLV172DCK,TLV172IDCKR,
-U8,1,LTC2292,LTC2292,dual ADC; 64-QFN 9x9
-U9;U13,2,TRF37A73,TRF37A73,RF amp
-U10,1,HMC431LP4,HMC431LP4ETR,VCO; MPN from schematic manf# field
-U11;U16,2,SKY65404,SKY65404-31,LNA; dash suffix to confirm
-U14,1,MGA-25203,MGA-25203-BLKG,PA; MPN from schematic manf# field
-U26;U27;U28,3,5400BL15B050E,5400BL15B050E,Johanson balun
-U29,1,ADL5802,ADL5802,mixer
-U30,1,XC7A15T-1FTG256C,XC7A15T-1FTG256C,Artix-7 FPGA
-U32,1,93LC46B,93LC46B-I/OT,EEPROM
-U33,1,FT2232H,FT2232HL,USB bridge
-U34;U35,4,ADA4940-2,ADA4940-2,ADC driver amp
-U40,1,W25Q32JV,W25Q32JVZPIQ,DFN-S-8 6x5 = WSON package
-Y1,1,ABM10-167-12.000MHZ-T3,ABM10-167-12.000MHZ-T3,crystal
-Q1,1,RE1C002UN,RE1C002UN,MOSFET
-D2;D3;D4,3,SS13FL,SS13FL,diode
-FB1;FB2;FB3;FB5;FB6;FB7;FB8;FB12;FB13;FB14,10,BLM18PG181SN1D,BLM18PG181SN1D,ferrite
-FB4;FB11,2,CIC21P101NE,CIC21P101NE,ferrite
-L1;L3,2,LQW15AN9N9J80D,LQW15AN9N9J80D,inductor
-L5;L6;L7,3,SRR6040A-330M,SRR6040A-330M,inductor
-CON1,1,DM3BT-DSF-PEJS,DM3BT-DSF-PEJS,SD card socket
-CON2,1,EJ508A,EJ508A,barrel jack
-SW2,1,EVP-AWBA2A,EVP-AWBA2A,switch
-P1;P2;U15,3,SMA,CONSMA003.062,Linx edge-launch SMA
+refs,qty,value,footprint,kind,search_term,candidates,needs_david,package,tolerance,voltage,dielectric,tolerance_hint,dielectric_hint,notes
+C1;C71;C72;C81;C103;C104;C105;C107;C169;C172;C173;C177;C178;C214;C215,15,DNP,fmcw3:C_0805b,dnp,,,,,,,,,,"DNP in schematic: footprint only, not sourced"
+C23;C30;C32;C90;C91;C92;C132;C133;C219;C221,10,100 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,X7R,
+C2;C4;C9;C15;C17;C18;C24;C25;C27;C43;C49;C58;C138;C139;C150;C151;C152;C153;C154;C158;C159;C160;C161;C176;C207;C210;C211;C212;C223;C224;C225;C252,32,100 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,,X7R,
+C6;C108;C115;C116;C120;C121;C122;C123,8,100 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,,X7R,
+C21,1,100 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=16 V (inferred: 10 V on 10V),unspecified,,X7R,
+C36;C134;C135;C136;C137,5,10 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0,
+C3;C5;C44;C53,4,10 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,,C0G/NP0,
+C7,1,10 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,,C0G/NP0,
+C8;C11;C109;C110;C111;C112;C113;C114,8,10 pF,fmcw3:C_0402b,generic,,,needs-David,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0,RF-path part given by value only: vendor/series/tolerance/SRF decide performance
+C10,1,2.2 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,X7R,
+C126;C127,2,2.2 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(C126-Pad1)),unspecified,,X7R,
+C19;C20;C217;C218,4,1 uF,fmcw3:C_0603b,generic,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,X7R,
+C12;C222;C249,3,1 uF,fmcw3:C_0603b,generic,,,,0603,unspecified,>=6.3 V (inferred: 3 V on 3V0),unspecified,,X7R,
+C89,1,1 uF,fmcw3:C_0603b,generic,,,,0603,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,,X7R,
+C13;C16;C63;C65;C66;C95,6,10 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,X7R,
+C28;C97;C99;C179;C206,5,10 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,,X7R,
+C96;C128;C129;C130;C131,5,10 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=10 V (inferred: 5 V on 5V),unspecified,,X7R,
+C14,1,51 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0,
+C22;C31;C216;C220,4,2.2 uF,fmcw3:C_0603b,generic,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,X5R or X7R,
+C39,1,2.2 uF,fmcw3:C_0603b,generic,,,,0603,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY)),unspecified,,X5R or X7R,
+C26;C38;C76;C77;C78;C80;C85;C87;C88;C93;C94;C101;C102;C106;C248,15,10 uF,fmcw3:C_0805b,generic,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,,X5R or X7R,
+C79;C82;C83;C84;C86;C100;C162,7,10 uF,fmcw3:C_0805b,generic,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,,X5R or X7R,
+C98,1,10 uF,fmcw3:C_0805b,generic,,,,0805,unspecified,>=16 V (inferred: 10 V on 10V),unspecified,,X5R or X7R,
+C60;C61;C62;C64;C70,5,10 uF,fmcw3:C_0805b,generic,,,,0805,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,,X5R or X7R,
+C29;C69,2,68 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0,
+C33;C34;C68;C163;C164;C165;C166;C167;C168,9,100 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0,
+C40;C41;C180;C213,4,100 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY)),unspecified,,C0G/NP0,
+C117;C118;C119,3,100 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=10 V (inferred: 5 V on 5VF),unspecified,,C0G/NP0,
+C35;C37;C45;C47;C50;C51;C54;C56;C59,9,DNP,fmcw3:C_0603b,dnp,,,,,,,,,,"DNP in schematic: footprint only, not sourced"
+C42;C46;C52;C55,4,18 pF,fmcw3:C_0402b,generic,,,needs-David,0402,unspecified,>=6.3 V (inferred: 3 V on Net-(U9-RFOUT)),unspecified,,C0G/NP0,RF-path part given by value only: vendor/series/tolerance/SRF decide performance
+C48;C57,2,0.5 pF,fmcw3:C_0402b,generic,,,needs-David,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0,RF-path part given by value only: vendor/series/tolerance/SRF decide performance
+C67,1,39 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0,
+C73,1,15 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred: 1 V on Net-(C73-Pad1)),unspecified,,X7R,
+C74,1,8.2 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on Net-(C74-Pad1)),unspecified,,X7R,
+C75,1,4.7 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=10 V (inferred: 5.6 V on Net-(C75-Pad1)),unspecified,,X7R,
+C124;C125;C140;C141;C142;C143;C144;C145;C146;C147;C148;C149;C174;C175,14,DNP,fmcw3:C_0402b,dnp,,,,,,,,,,"DNP in schematic: footprint only, not sourced"
+C155;C156;C157,3,4.7 uF,fmcw3:C_0603b,generic,,,,0603,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U33-VPHY)),unspecified,,X5R or X7R,
+C170;C171;C187;C189;C190;C191;C192;C193;C197;C198;C199;C200;C201;C202;C203;C204;C205;C250;C251,19,470 nF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,,X7R,
+C181,1,100 uF,Capacitors_SMD:C_1210,generic,,,,1210,unspecified,>=6.3 V (inferred: 1 V on 1V0),unspecified,,X5R or X7R,
+C182;C184;C196,3,47 uF,Capacitors_SMD:C_1206,generic,,,,1206,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,,X5R or X7R,
+C183;C185;C186;C188;C194;C195,6,4.7 uF,fmcw3:C_0805b,generic,,,,0805,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,,X5R or X7R,
+C208;C209,2,15 pF,fmcw3:C_0402b,generic,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,,C0G/NP0 (crystal load caps),
+CON1,1,SD_Card_DM3BT,fmcw3:DM3BT-DSF-PEJS,mpn,DM3BT-DSF-PEJS,,,,,,,,,SD card socket
+CON2,1,BARREL_JACK,fmcw3:EJ508A,mpn,EJ508A,,,,,,,,,barrel jack
+D1;D6,2,LED,fmcw3:LED_0603,generic,,,,0603,n/a,,,,,"LED: colour, Vf, current not in schematic"
+D2;D3;D4,3,SS13FL,fmcw3:SOD-123F,mpn,SS13FL,,,,,,,,,Schottky SOD-123F
+F1;F2,2,Via,fmcw3:RF_via,nopart,,,,,,,,,,RF via footprint (PCB feature)
+FB1;FB2;FB3;FB5;FB6;FB7;FB8;FB12;FB13;FB14,10,BLM18PG181SN1D,fmcw3:C_0603b,mpn,BLM18PG181SN1D,,,,,,,,,ferrite
+FB4;FB11,2,CIC21P101NE,fmcw3:C_0805b,mpn,CIC21P101NE,,,,,,,,,ferrite
+L1;L3,2,LQW15AN9N9J80D,fmcw3:C_0402b,mpn,LQW15AN9N9J80D,,,,,,,,,9.9 nH RF inductor
+L2;L4,2,0.6 nH,fmcw3:C_0402b,generic,,,needs-David,0402,unspecified,,,,,"current/saturation rating, DCR, SRF not in schematic; RF-path part given by value only: vendor/series/tolerance/SRF decide performance"
+L5;L6;L7,3,33u (SRR6040A-330M),fmcw3:SRR6040A,mpn,SRR6040A-330M,,,,,,,,,33 uH buck inductor
+L8;L9;L10;L11,4,2.2 uH,fmcw3:C_0805b,generic,,,,0805,unspecified,,,,,"current/saturation rating, DCR, SRF not in schematic"
+P1;P2,2,SMA,fmcw3:CONSMA003.062,mpn,CONSMA003.062,,,,,,,,,Linx edge-launch SMA (same footprint as U15)
+P3;P4,2,CONN_02X04,Pin_Headers:Pin_Header_Straight_2x04_Pitch2.54mm_SMD,generic,,,,SMD 2x4 2.54 mm,n/a,,,,,"2x4 2.54 mm SMD pin header, footprint Pin_Header_Straight_2x04_Pitch2.54mm_SMD; MPN to be picked by David"
+P5;P7;P8,3,CONN_01X01,fmcw3:MountingHole_3.2mm_M3_Pad_Via_mod,nopart,,,,,,,,,,M3 mounting hole (mechanical)
+P6;P9;P10;P11;P12;P13;P14;P15;P16,9,CONN_01X01,fmcw3:TP_1.00,nopart,,,,,,,,,,1 mm test-point pad (PCB feature)
+Q1,1,RE1C002UN,fmcw3:SOT-416,mpn,RE1C002UNTCL,,,,,,,,,MOSFET SOT-416FL; TCL = taping
+Q2,1,DNP(RE1C002UN),fmcw3:SOT-416,dnp,,,,,,,,,,"DNP in schematic: footprint only, not sourced"
+R1,1,5.49 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R2;R31;R40;R50;R63;R64;R65;R66;R67;R68;R69;R74;R75;R76;R77;R78;R86;R92;R101;R110,20,DNP,fmcw3:R_0402b,dnp,,,,,,,,,,"DNP in schematic: footprint only, not sourced"
+R3;R8,2,470 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R4,1,3.1 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,value outside E24/E96,,power rating not in schematic (0402 default 1/16 W)
+R5;R6;R7;R18;R82;R112;R117;R118,8,4.7 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R9;R11;R12,3,18 ohm,fmcw3:R_0402b,generic,,,needs-David,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W); RF-path part given by value only: vendor/series/tolerance/SRF decide performance
+R10,1,6.98 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R13;R15;R16;R38;R84;R85;R88;R130,8,33 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R14,1,39 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R51;R52;R53;R54;R97;R98;R99;R100,8,49.9 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R17,1,49.9 ohm,fmcw3:R_0402b,generic,,,needs-David,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W); RF-path part given by value only: vendor/series/tolerance/SRF decide performance
+R20;R70;R80;R81;R87;R89;R90;R91;R93;R94;R103;R114;R115,13,0 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,0 ohm jumper,,power rating not in schematic (0402 default 1/16 W)
+R21,1,22 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R22;R23;R42,3,100 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R24;R109,2,240 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R25;R26;R104,3,68 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R27,1,15 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R28,1,59 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R29,1,6.8 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R30;R59;R60;R61;R62,5,8.2 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R32;R34;R36,3,4.99 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R33,1,7.5 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R35;R72;R111,3,1 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R37,1,590 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R39,1,47 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R41,1,56 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R43,1,10.5 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R44;R49,2,2 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R45,1,1.87 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R46,1,1.5 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R47,1,3.57 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R48,1,1.15 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R55;R56;R57;R58,4,550 ohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,value outside E24/E96,,power rating not in schematic (0402 default 1/16 W)
+R71,1,12 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+R73;R83,2,10 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E96 value, 1% implied",,power rating not in schematic (0402 default 1/16 W)
+R79,1,2.2 kohm,fmcw3:R_0402b,generic,,,,0402,unspecified,,,"E24 value, 5% implied",,power rating not in schematic (0402 default 1/16 W)
+SW2,1,SW_PUSH,fmcw3:EVP-AWBA2A,mpn,EVP-AWBA2A,,,,,,,,,tactile switch
+U1,1,ADF4158,fmcw3:VFQFN-24,mpn,ADF4158CCPZ,,,,,,,,,PLL; MPN from schematic manf# field
+U2,1,LP5907-1.8,fmcw3:SOT-23-5,mpn,LP5907MFX-1.8/NOPB,,,,,,,,,LDO; MFX = SOT-23-5 (matches footprint)
+U3;U12,2,PAT1220-6dB,fmcw3:PAT1220,mpn,PAT1220-C-6DB-T5,,,,,,,,,"Susumu 0805 attenuator: C=50 ohm, 06=6 dB, T5=tape"
+U4,1,KT2520K,fmcw3:KT2520K,mpn,,KT2520K26000ZAW18TAS|KT2520K40000DAW18TAS|KT2520K37400ZAW18TBS|KT2520K38400ZAW18TES|KT2520K16369ACW18TAS,needs-David,,,,,,,TCXO: frequency and stability not in schematic or docs; supply is 1.8 V (net 1V8_OSC) so only 1.8 V variants listed; family mostly Obsolete
+U5,1,NC7S04P5X,TO_SOT_Packages_SMD:SOT-353_SC-70-5,mpn,NC7S04P5X,,,,,,,,,
+U6,1,NB3N551,fmcw3:DFN-8,mpn,NB3N551MNR4G,,,,,,,,,"clock buffer; DFN-8 2x2 footprint (onsemi 506CN) -> MN variant, only DFN8 orderable code"
+U7,1,TLV172DCK,TO_SOT_Packages_SMD:SOT-353_SC-70-5,mpn,TLV172IDCKR,,,,,,,,,"value TLV172DCK; I grade, SC70-5 reel"
+U8,1,LTC2292,Housings_DFN_QFN:QFN-64-1EP_9x9mm_Pitch0.5mm,mpn,,LTC2292CUP#PBF|LTC2292IUP#PBF,needs-David,,,,,,,"dual ADC, 64-QFN 9x9 = UP package; C (0-70 C) vs I (-40-85 C) grade not in schematic"
+U9;U13,2,TRF37A73,fmcw3:DFN-8-1EP_2x2mm_Pitch0.5mm,mpn,TRF37A73IDSGR,,,,,,,,,"RF amp, WSON-8 2x2; IDSGT is the 250-pc reel of the same part"
+U10,1,HMC431LP4,fmcw3:VQFN-24,mpn,HMC431LP4ETR,,,,,,,,,VCO; MPN from schematic manf# field
+U11;U16,2,SKY65404,fmcw3:XFDFN-6,mpn,SKY65404-31,,,,,,,,,LNA 4.9-5.9 GHz
+U14,1,MGA-25203,fmcw3:MGA-25203,mpn,MGA-25203-BLKG,,,,,,,,,PA; MPN from schematic manf# field
+U15,1,SMA,fmcw3:CONSMA003.062,mpn,CONSMA003.062,,,,,,,,,Linx edge-launch SMA
+U17;U18;U19,3,L7980,Housings_DFN_QFN:DFN-8-1EP_3x3mm_Pitch0.5mm,mpn,L7980TR,,,,,,,,,"buck; footprint DFN-8-1EP 3x3 -> L7980 (VFQFPN 3x3); the old L7980ATR pick was HSOP8, wrong package"
+U20;U39,2,LP5907-3.0,fmcw3:SOT-23-5,mpn,LP5907MFX-3.0/NOPB,,,,,,,,,LDO; MFX = SOT-23-5
+U21,1,LP2985A-10DBVR,fmcw3:SOT-23-5,mpn,LP2985A-10DBVR,,,,,,,,,"LDO, 1.0 V fixed; value field is the full MPN"
+U22;U23;U24,3,TPS7A91,fmcw3:SON-10_2.5x2.5mm,mpn,TPS7A9101DSKT,,,,,,,,,"adjustable LDO (FB nets present), DSK = 10-SON 2.5x2.5; DSKR is the same die in 3000-pc reel"
+U25,1,MIC5301-3.3,fmcw3:SOT-23-5,mpn,MIC5301-3.3YD5-TR,,,,,,,,,"3.3 V LDO; footprint SOT-23-5 -> YD5 (TSOT-23-5); the old YMT pick was 6-pin 1.6x1.6 MLF, wrong package"
+U26;U27;U28,3,5400BL15B050E,fmcw3:5400BL15B050E,mpn,5400BL15B0050001E,,,,,,,,,Johanson balun; 050 = 50 ohm balanced (0100/0200 are 100/200 ohm variants)
+U29,1,ADL5802,Housings_DFN_QFN:QFN-24-1EP_4x4mm_Pitch0.5mm,mpn,ADL5802ACPZ-R7,,,,,,,,,mixer; only A-grade LFCSP-24 4x4 orderable code
+U30,1,XC7A15T-1FTG256C,fmcw3:FTG256,mpn,XC7A15T-1FTG256C,,,,,,,,,Artix-7 FPGA; 7 schematic units A-G = 1 physical part
+U31,1,USB-MICRO,fmcw3:USB_MICRO,mpn,,10118194-0001LF|0473460001|1050170001|629105136821,needs-David,,,,,,,micro-B USB receptacle; footprint USB_MICRO is 5 pads at 0.65 mm pitch (0.4x1.35) plus shield pads; no MPN anywhere in the design; compare footprint to candidate drawings
+U32,1,93LC46B,fmcw3:SOT-23-6,mpn,93LC46BT-I/OT,,,,,,,,,"EEPROM, SOT-23-6 = OT package; I temp grade chosen as default (E/OT also exists)"
+U33,1,FT2232H,Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm,mpn,FT2232HL-REEL,,,,,,,,,"USB bridge, LQFP-64 10x10 = HL; FT2232HL-TRAY is the tray pack"
+U34;U35,2,ADA4940-2,fmcw3:VFQFN-24,mpn,ADA4940-2ACPZ-R7,,,,,,,,,"dual ADC driver, LFCSP-24; U34/U35 are 2 physical ICs (units A,B each); -R2/-RL are other reel sizes"
+U40,1,W25Q32JV,Housings_DFN_QFN:DFN-S-8-1EP_6x5mm_Pitch1.27mm,mpn,W25Q32JVZPIQ,,,,,,,,,DFN-S-8 6x5 = WSON-8 (ZP)
+Y1,1,ABM10-167-12.000MHZ-T3,fmcw3:ABM10,mpn,ABM10-167-12.000MHZ-T3,,,,,,,,,crystal
+Z1,1,15dB COUPLER,fmcw3:coupler,nopart,,,,,,,,,,"printed 15 dB coupler (PCB copper, footprint 'coupler')"

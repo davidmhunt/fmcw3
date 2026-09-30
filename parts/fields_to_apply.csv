@@ -1,0 +1,356 @@
+ref,kind,Manufacturer,MPN,DigiKey PN,Status,Package,Tolerance,Voltage,Dielectric,spec_only,basis
+C23,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C30,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C32,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C90,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C91,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C92,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C132,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C133,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C219,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C221,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C2,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C4,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C9,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C15,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C17,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C18,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C24,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C25,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C27,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C43,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C49,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C58,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C138,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C139,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C150,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C151,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C152,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C153,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C154,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C158,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C159,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C160,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C161,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C176,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C207,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C210,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C211,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C212,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C223,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C224,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C225,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C252,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C6,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C108,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C115,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C116,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C120,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C121,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C122,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C123,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C21,generic,,,,,0402,unspecified,>=16 V (inferred: 10 V on 10V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C36,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C134,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C135,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C136,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C137,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C3,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C5,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C44,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C53,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C7,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(U1-VP)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C8,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C11,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C109,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C110,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C111,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C112,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C113,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C114,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C10,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C126,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(C126-Pad1)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C127,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on Net-(C126-Pad1)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C19,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C20,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C217,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C218,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C12,generic,,,,,0603,unspecified,>=6.3 V (inferred: 3 V on 3V0),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C222,generic,,,,,0603,unspecified,>=6.3 V (inferred: 3 V on 3V0),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C249,generic,,,,,0603,unspecified,>=6.3 V (inferred: 3 V on 3V0),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C89,generic,,,,,0603,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C13,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C16,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C63,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C65,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C66,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C95,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C28,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C97,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C99,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C179,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C206,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3A),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C96,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C128,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C129,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C130,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C131,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C14,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C22,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C31,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C216,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C220,generic,,,,,0603,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C39,generic,,,,,0603,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C26,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C38,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C76,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C77,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C78,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C80,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C85,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C87,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C88,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C93,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C94,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C101,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C102,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C106,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C248,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.6 V on 3V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C79,generic,,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C82,generic,,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C83,generic,,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C84,generic,,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C86,generic,,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C100,generic,,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C162,generic,,,,,0805,unspecified,>=10 V (inferred: 5.6 V on 5V6),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C98,generic,,,,,0805,unspecified,>=16 V (inferred: 10 V on 10V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C60,generic,,,,,0805,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C61,generic,,,,,0805,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C62,generic,,,,,0805,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C64,generic,,,,,0805,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C70,generic,,,,,0805,unspecified,>=25 V (inferred: 15 V on 12V),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C29,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C69,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C33,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C34,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C68,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C163,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C164,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C165,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C166,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C167,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C168,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C40,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C41,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C180,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C213,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U14-BSPLY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C117,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5VF),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C118,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5VF),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C119,generic,,,,,0402,unspecified,>=10 V (inferred: 5 V on 5VF),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C42,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred: 3 V on Net-(U9-RFOUT)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C46,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred: 3 V on Net-(U9-RFOUT)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C52,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred: 3 V on Net-(U9-RFOUT)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C55,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred: 3 V on Net-(U9-RFOUT)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C48,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C57,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C67,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C73,generic,,,,,0402,unspecified,>=6.3 V (inferred: 1 V on Net-(C73-Pad1)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C74,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.6 V on Net-(C74-Pad1)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C75,generic,,,,,0402,unspecified,>=10 V (inferred: 5.6 V on Net-(C75-Pad1)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C155,generic,,,,,0603,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U33-VPHY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C156,generic,,,,,0603,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U33-VPHY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C157,generic,,,,,0603,unspecified,>=6.3 V (inferred: 3.3 V on Net-(U33-VPHY)),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C170,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C171,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C187,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C189,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C190,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C191,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C192,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C193,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C197,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C198,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C199,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C200,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C201,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C202,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C203,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C204,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C205,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C250,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C251,generic,,,,,0402,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C181,generic,,,,,1210,unspecified,>=6.3 V (inferred: 1 V on 1V0),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C182,generic,,,,,1206,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C184,generic,,,,,1206,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C196,generic,,,,,1206,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C183,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C185,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C186,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C188,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C194,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C195,generic,,,,,0805,unspecified,>=6.3 V (inferred: 3.3 V on 3V3D),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C208,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+C209,generic,,,,,0402,unspecified,>=6.3 V (inferred default: no supply rail on these nets),unspecified,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+CON1,mpn,Hirose Electric Co Ltd,DM3BT-DSF-PEJS,HR1942CT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+CON2,mpn,MPD (Memory Protection Devices),EJ508A,EJ508A-ND,,,,,,no,"exact MPN, DigiKey lookup"
+D1,generic,,,,,0603,n/a,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+D6,generic,,,,,0603,n/a,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+D2,mpn,onsemi,SS13FL,2832-SS13FLTR-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+D3,mpn,onsemi,SS13FL,2832-SS13FLTR-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+D4,mpn,onsemi,SS13FL,2832-SS13FLTR-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+FB1,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB2,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB3,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB5,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB6,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB7,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB8,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB12,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB13,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB14,mpn,Murata Electronics,BLM18PG181SN1D,490-5263-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+FB4,mpn,Samsung Electro-Mechanics,CIC21P101NE,1276-6374-2-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+FB11,mpn,Samsung Electro-Mechanics,CIC21P101NE,1276-6374-2-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+L1,mpn,Murata Electronics,LQW15AN9N9J80D,490-7690-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+L3,mpn,Murata Electronics,LQW15AN9N9J80D,490-7690-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+L2,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+L4,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+L5,mpn,Bourns Inc.,SRR6040A-330M,SRR6040A-330MCT-ND,NFND: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+L6,mpn,Bourns Inc.,SRR6040A-330M,SRR6040A-330MCT-ND,NFND: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+L7,mpn,Bourns Inc.,SRR6040A-330M,SRR6040A-330MCT-ND,NFND: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+L8,generic,,,,,0805,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+L9,generic,,,,,0805,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+L10,generic,,,,,0805,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+L11,generic,,,,,0805,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+P1,mpn,TE Connectivity Linx,CONSMA003.062,CONSMA003.062-ND,,,,,,no,"exact MPN, DigiKey lookup"
+P2,mpn,TE Connectivity Linx,CONSMA003.062,CONSMA003.062-ND,,,,,,no,"exact MPN, DigiKey lookup"
+P3,generic,,,,,SMD 2x4 2.54 mm,n/a,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+P4,generic,,,,,SMD 2x4 2.54 mm,n/a,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+Q1,mpn,Rohm Semiconductor,RE1C002UNTCL,RE1C002UNTCLCT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+R1,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R3,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R8,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R4,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R5,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R6,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R7,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R18,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R82,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R112,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R117,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R118,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R9,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R11,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R12,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R10,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R13,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R15,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R16,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R38,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R84,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R85,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R88,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R130,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R14,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R51,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R52,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R53,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R54,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R97,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R98,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R99,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R100,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R17,generic,,,,needs-David: see docs/hardware/fmcw3 memo,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R20,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R70,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R80,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R81,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R87,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R89,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R90,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R91,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R93,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R94,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R103,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R114,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R115,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R21,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R22,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R23,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R42,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R24,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R109,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R25,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R26,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R104,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R27,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R28,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R29,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R30,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R59,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R60,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R61,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R62,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R32,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R34,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R36,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R33,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R35,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R72,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R111,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R37,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R39,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R41,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R43,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R44,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R49,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R45,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R46,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R47,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R48,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R55,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R56,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R57,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R58,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R71,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R73,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R83,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+R79,generic,,,,,0402,unspecified,,,yes,value+footprint from schematic; voltage inferred from net; tolerance/dielectric unspecified
+SW2,mpn,Panasonic Industry,EVP-AWBA2A,P16850TR-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+U1,mpn,Analog Devices Inc.,ADF4158CCPZ,505-ADF4158CCPZ-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U2,mpn,Texas Instruments,LP5907MFX-1.8/NOPB,296-41463-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U3,mpn,Susumu,PAT1220-C-6DB-T5,PAT126CT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U12,mpn,Susumu,PAT1220-C-6DB-T5,PAT126CT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U4,mpn,,,,needs-David: see docs/hardware/fmcw3 memo,,,,,no,
+U5,mpn,onsemi,NC7S04P5X,NC7S04P5XCT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U6,mpn,onsemi,NB3N551MNR4G,NB3N551MNR4GOSCT-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+U7,mpn,Texas Instruments,TLV172IDCKR,296-48697-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U8,mpn,,,,needs-David: see docs/hardware/fmcw3 memo,,,,,no,
+U9,mpn,Texas Instruments,TRF37A73IDSGR,296-48786-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U13,mpn,Texas Instruments,TRF37A73IDSGR,296-48786-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U10,mpn,Analog Devices Inc.,HMC431LP4ETR,1127-1036-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U11,mpn,Skyworks Solutions Inc.,SKY65404-31,863-1398-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U16,mpn,Skyworks Solutions Inc.,SKY65404-31,863-1398-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U14,mpn,Broadcom Limited,MGA-25203-BLKG,516-2289-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+U15,mpn,TE Connectivity Linx,CONSMA003.062,CONSMA003.062-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U17,mpn,STMicroelectronics,L7980TR,497-10813-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U18,mpn,STMicroelectronics,L7980TR,497-10813-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U19,mpn,STMicroelectronics,L7980TR,497-10813-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U20,mpn,Texas Instruments,LP5907MFX-3.0/NOPB,296-40357-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U39,mpn,Texas Instruments,LP5907MFX-3.0/NOPB,296-40357-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U21,mpn,Texas Instruments,LP2985A-10DBVR,296-24264-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U22,mpn,Texas Instruments,TPS7A9101DSKT,296-45298-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U23,mpn,Texas Instruments,TPS7A9101DSKT,296-45298-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U24,mpn,Texas Instruments,TPS7A9101DSKT,296-45298-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U25,mpn,Microchip Technology,MIC5301-3.3YD5-TR,576-2840-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U26,mpn,Johanson Technology Inc.,5400BL15B0050001E,712-5400BL15B0050001ECT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U27,mpn,Johanson Technology Inc.,5400BL15B0050001E,712-5400BL15B0050001ECT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U28,mpn,Johanson Technology Inc.,5400BL15B0050001E,712-5400BL15B0050001ECT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U29,mpn,Analog Devices Inc.,ADL5802ACPZ-R7,ADL5802ACPZ-R7CT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U30,mpn,AMD,XC7A15T-1FTG256C,122-1930-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U31,mpn,,,,needs-David: see docs/hardware/fmcw3 memo,,,,,no,
+U32,mpn,Microchip Technology,93LC46BT-I/OT,93LC46BT-I/OTCT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U33,mpn,"FTDI, Future Technology Devices International Ltd",FT2232HL-REEL,768-1024-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U34,mpn,Analog Devices Inc.,ADA4940-2ACPZ-R7,505-ADA4940-2ACPZ-R7CT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U35,mpn,Analog Devices Inc.,ADA4940-2ACPZ-R7,505-ADA4940-2ACPZ-R7CT-ND,,,,,,no,"exact MPN, DigiKey lookup"
+U40,mpn,Winbond Electronics,W25Q32JVZPIQ,256-W25Q32JVZPIQ-TUBE-ND,Obsolete: see docs/hardware/fmcw3 memo,,,,,no,"exact MPN, DigiKey lookup"
+Y1,mpn,Abracon LLC,ABM10-167-12.000MHZ-T3,535-13521-1-ND,,,,,,no,"exact MPN, DigiKey lookup"
